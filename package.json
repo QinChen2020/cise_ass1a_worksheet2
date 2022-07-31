@@ -4,6 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
+    "build": "npm i react-scripts && react-scripts build",
     "test": "cd ./frontend && npm test",
     "start": "nodemon backend/server.js"
   },
