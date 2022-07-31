@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "react-scripts frontend/test",
+    "test": "react-scripts test",
     "start": "nodemon backend/server.js"
   },
   "author": "Qin",
