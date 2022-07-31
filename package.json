@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "cd ./frontend && npm install && npm build && npm test",
+    "test": "cd ./frontend && npm install && npm run build && npm test",
     "start": "nodemon backend/server.js"
   },
   "author": "Qin",
